@@ -7,4 +7,5 @@ tuyet nhien dinh phan tai thien thu
 
 ctrl c ko dc
 abdsdfa
-
+the thoi tao folder moi lam lai da thay a
+xoa se xoa sau
